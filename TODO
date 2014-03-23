@@ -1,0 +1,13 @@
+Dal più urgente in poi:
+
+* Dividere il codice in funzioni e classi
+* Gestire le eccezioni
+* Gestire automaticamente le funzioni da usare in base al sistema e alle scelte
+  dell'utente
+* Stabilire i requisiti assolutamente necessari cercando di mantenerli minimi
+  in particolare evitare dipendenze da software non FOSS, cioè:
+* Capire perché Iceweasel crea problemi mentre Firefox va bene
+* Testare su Xfce, Kde e Lxde
+* Valutare la necessità di una versione per Mac OS X
+
+大水龍
